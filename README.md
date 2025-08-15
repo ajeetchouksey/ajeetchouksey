@@ -1,6 +1,6 @@
 # Hi there! I'm Ajeet Chouksey 👋
 
-![Profile Views](https://komarev.com/ghpv/?username=ajeetchouksey&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=ajeetchouksey&color=blue)
 
 > 🚀 **AI-Driven Cloud & DevOps Architect** | Transforming software delivery through intelligent automation
 
